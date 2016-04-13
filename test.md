@@ -1,2 +1,1 @@
 # Psanec
-Jak vyšitý
